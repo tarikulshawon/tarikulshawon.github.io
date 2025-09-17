@@ -9,8 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+Summary
+======
+Engineer and researcher with experience delivering data-driven solutions, speaking at community events, and supporting collaborative academic projects.
+
+Experience
+======
+* Software and data projects that support research collaborations and applied machine learning efforts
+* Workshops and talks focused on reproducible analytics and engineering best practices
+* Mentoring students and early-career engineers on open-source practices
+
 Education
 ======
+<<<<<<< HEAD
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
@@ -40,6 +51,9 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+=======
+* Details coming soon — full academic history will be published here after the next update
+>>>>>>> 41e79fe (apply basic changes)
 
 Publications
 ======
@@ -58,7 +72,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
