@@ -21,7 +21,7 @@ repository               : "tarikulshawon/tarikulshawon.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "tarikul_photo.png"
+  avatar           : "/images/tarikul_photo.png"
   name             : "Tarikul Islam"
   pronouns         :
   bio              : "Personal site of Tarikul Islam."
@@ -126,7 +126,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : images/tarikul_photo.png
+og_image                 : /images/tarikul_photo.png
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
