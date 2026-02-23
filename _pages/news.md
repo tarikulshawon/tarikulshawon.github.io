@@ -13,7 +13,13 @@ Latest updates and milestones.
       <li class="news-card">
         <span class="news-date">{{ item.date }}</span>
         <div>
-          <div class="news-title">{{ item.title }}</div>
+          <div class="news-title">
+            {% if item.link %}
+              <a href="{{ item.link }}" target="_blank" rel="noopener">{{ item.title }}</a>
+            {% else %}
+              {{ item.title }}
+            {% endif %}
+          </div>
           <div class="news-text">{{ item.detail }}</div>
         </div>
       </li>
