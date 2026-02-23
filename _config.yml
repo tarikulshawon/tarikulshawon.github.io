@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Tarikul Islam"
 title_separator          : "-"
 name                     : &name "Tarikul Islam"
-description              : &description "Personal website of Tarikul Islam"
+description              : &description "Lead Engineer building AI-driven mobile and IoT products."
 url                      : https://tarikulshawon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tarikulshawon/tarikulshawon.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "/images/tarikul_photo.png"
   name             : "Tarikul Islam"
   pronouns         :
-  bio              : "Personal site of Tarikul Islam."
-  location         : ""
-  employer         : ""
-  uri              :
-  email            :
+  bio              : "Lead Engineer building AI-driven mobile and IoT products."
+  location         : "Dhaka, Bangladesh"
+  employer         : "Samsung R&D Institute Bangladesh"
+  uri              : "https://tarikulshawon.github.io"
+  email            : "tarikulcse14@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "tarikul-islam"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -130,9 +130,11 @@ og_image                 : /images/tarikul_photo.png
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Tarikul Islam"
+  links:
+    - "https://www.linkedin.com/in/tarikul-islam/"
+    - "https://github.com/tarikulshawon"
 
 
 # Analytics

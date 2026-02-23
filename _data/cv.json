@@ -1,152 +1,190 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Tarikul Islam",
+    "label": "Lead Engineer, SmartThings Development Group",
+    "email": "tarikulcse14@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://tarikulshawon.github.io",
+    "summary": "Lead Engineer building AI-driven mobile and IoT products, with a focus on Generative AI, LLMs, computer vision, and software engineering.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Dhaka",
+      "countryCode": "Bangladesh",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "tarikul-islam",
+        "url": "https://www.linkedin.com/in/tarikul-islam/"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "tarikulshawon",
+        "url": "https://github.com/tarikulshawon"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "company": "Samsung R&D Institute Bangladesh",
+      "position": "Lead Engineer, SmartThings Development Group",
+      "startDate": "Mar 2025",
+      "endDate": "Present",
+      "summary": "Leading the design and development of SmartThings features and AI-driven experiences.",
+      "highlights": [
+        "Led development of the Plant Care Plugin, including SmartThings integration and a standalone Android app.",
+        "Integrated Siri voice assistant and contributed to AI-driven features within SmartThings.",
+        "Mentored engineers to strengthen ML and AI expertise."
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "company": "Samsung R&D Institute Bangladesh",
+      "position": "Senior Software Engineer, Service Experience Group",
+      "startDate": "Mar 2022",
+      "endDate": "Feb 2025",
+      "summary": "Modernized SmartThings automation and improved testing reliability.",
+      "highlights": [
+        "Migrated the Automation Module from ReactiveSwift to Combine.",
+        "Boosted unit test coverage from 20% to 80%.",
+        "Resolved memory leaks and performance bottlenecks."
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "company": "Samsung R&D Institute Bangladesh",
+      "position": "Software Engineer, Mobile Application Group",
+      "startDate": "Jun 2019",
+      "endDate": "Feb 2022",
+      "summary": "Built and maintained core features in the SmartThings Automation module.",
+      "highlights": [
+        "Designed, developed, and maintained key automation features.",
+        "Collaborated across teams to deliver reliable mobile experiences."
+      ]
+    },
+    {
+      "company": "Samsung R&D Institute Bangladesh",
+      "position": "AI Mentor",
+      "startDate": "2025",
+      "endDate": "Present",
+      "summary": "Mentoring engineers in foundational AI concepts and internal upskilling.",
+      "highlights": [
+        "Mentored 30+ team members in AI fundamentals.",
+        "Helped design the SRBD Quarterly AI Basics Exam 2025 syllabus and evaluations."
+      ]
     }
   ],
-  "skills": [],
+  "education": [
+    {
+      "institution": "Bangladesh University of Engineering and Technology (BUET)",
+      "area": "Bachelor of Science in Computer Science and Engineering",
+      "studyType": "",
+      "startDate": "2015",
+      "endDate": "2019",
+      "gpa": "3.47/4.0",
+      "courses": [
+        "Compilers",
+        "Operating Systems",
+        "Database Systems",
+        "Computer Networks",
+        "Computer Architecture",
+        "Pattern Recognition",
+        "Digital System Design",
+        "Algorithms",
+        "Data Structures",
+        "Artificial Intelligence",
+        "Machine Learning"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "AI/ML",
+      "keywords": [
+        "PyTorch",
+        "TensorFlow",
+        "Scikit-learn",
+        "CoreML",
+        "OpenCV",
+        "CLIP",
+        "ViT-GPT2"
+      ]
+    },
+    {
+      "name": "Programming",
+      "keywords": [
+        "Python",
+        "Swift",
+        "C++",
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [
+        "Combine",
+        "RxSwift",
+        "SwiftUI"
+      ]
+    },
+    {
+      "name": "Tools",
+      "keywords": [
+        "Git",
+        "Ollama",
+        "TensorRT",
+        "LangChain",
+        "LlamaIndex",
+        "Hugging Face"
+      ]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Lens Ghosting Detection Using IMU Sensor Data in Smartphones",
+      "publisher": "Samsung Research Bangladesh (Patent)",
+      "releaseDate": "2024-01-01",
+      "website": "",
+      "summary": "Proposed an IMU-assisted approach to detect ghost images in live view and mitigate lens ghosting artifacts in smartphone cameras."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Software Engineering Practices in Bangladesh",
+      "publisher": "Bangladesh University of Engineering and Technology (Undergrad Thesis)",
+      "releaseDate": "2019-04-01",
+      "website": "",
+      "summary": "Undergraduate thesis analyzing industry practices, standards alignment, and growth opportunities."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
+  "presentations": [],
+  "teaching": [],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
+      "name": "Plant Care Plugin for SmartThings",
+      "category": "product",
+      "date": "2025-03-01",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Led design and development of a SmartThings Plant Care Plugin, including SmartThings integration and a standalone Android app."
+    },
+    {
+      "name": "TMS: Toddler Monitoring System",
+      "category": "project",
+      "date": "2023-06-01",
+      "url": "",
+      "description": "AI-powered monitoring system for IoT surveillance devices with real-time alerts using SlowFast, YOLOv5, and Deep SORT."
+    },
+    {
+      "name": "AI Notifications in SmartThings",
+      "category": "product",
+      "date": "2025-01-01",
+      "url": "",
+      "description": "Proposed AI-generated notifications using vision-language models; accepted for HQ development."
     }
   ]
 }
